@@ -1,0 +1,19 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Maze Cursor\bin\Debug\Maze Cursor.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\bin\Debug\Maze Cursor.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze_Cursor.Form1.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze_Cursor.Maze_Cursor_Game.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze_Cursor.Maze_Cursor_Lose.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze_Cursor.Maze_Cursor_Petunjuk.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze_Cursor.Maze_Cursor_Score1.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze_Cursor.Maze_Cursor_Score2.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze_Cursor.Maze_Cursor_Score3.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze_Cursor.Maze_Cursor.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze_Cursor.Resources.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze Cursor.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\bin\Debug\Maze Cursor.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\bin\Debug\Maze Cursor.pdb
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\bin\Debug\Maze Cursor.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze Cursor.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze Cursor.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Maze Cursor\Maze Cursor\Maze Cursor\obj\Debug\Maze Cursor.pdb

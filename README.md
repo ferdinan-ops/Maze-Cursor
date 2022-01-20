@@ -15,3 +15,5 @@
 ![Petunjuk5](https://user-images.githubusercontent.com/84588706/150272684-6e3996bc-fe1c-4164-8216-857bb87536da.jpg)
 
 ![Hasil1](https://user-images.githubusercontent.com/84588706/150272720-228bf25a-7b77-468f-a6dd-af0a954657b1.jpg)
+
+![Hasil2](https://user-images.githubusercontent.com/84588706/150272754-bb6108aa-da5b-4fa4-91de-02dc5c78779a.jpg)

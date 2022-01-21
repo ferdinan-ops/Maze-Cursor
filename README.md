@@ -2,6 +2,10 @@
 <h2>Descriptions</h2>
 
 <h2>What I Used</h2>
+<ol>
+  <li><b>Language:<b> Visual Basic</li>
+  
+</ol>
 
 <h2>Goals</h2>
 

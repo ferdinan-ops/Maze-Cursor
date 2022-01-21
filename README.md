@@ -5,7 +5,7 @@
 <ol>
   <li><b>Language:<b> Visual Basic</li>
   <li><b>Framework:<b> GUNA UI</li>
-  
+  <li><b>CI/CD:<b> Github</li>
 </ol>
 
 <h2>Goals</h2>

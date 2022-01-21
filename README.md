@@ -3,10 +3,10 @@
 
 <h2>What I Used</h2>
 <ol>
-  <li><b>Language:<b> Visual Basic</li>
-  <li><b>Framework:<b> GUNA UI</li>
-  <li><b>CI/CD:<b> Github</li>
-  <li><b>Pictures:<b> Flaticon, Pinterest, Dribble</li>
+  <li><b>Language:</b> Visual Basic</li>
+  <li><b>Framework:</b> GUNA UI</li>
+  <li><b>CI/CD:</b> Github</li>
+  <li><b>Pictures:</b> Flaticon, Pinterest, Dribble</li>
 </ol>
 
 <h2>Goals</h2>

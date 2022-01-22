@@ -13,8 +13,7 @@
 <ol>
   <li>You will be able to measure your mouse control ability in terms of time and task complexity.</li>
   <li>You will be able to know the cursor movement skills in limited situations.</li>
-  <li></li>
-  <li></li>
+  <li>You will understand the importance of coordinating visual and motor selection simultaneously to hit targets using the mouse.</li>
 </ol>
 
 # ScreenShoots

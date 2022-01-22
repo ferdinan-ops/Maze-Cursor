@@ -1,6 +1,6 @@
 # Maze Cursor
 <h2>Descriptions</h2>
-<p>Maze cursor is a game to test sensitivy of mouse. </p>
+<p>Maze cursor is a game to test sensitivy of mouse. Mouse sensitivity is important for cartographers or GIS specialists or artists who will use the mouse as a pencil to perform complex tasks. For such applications we have to keep/minimize drawing errors. Minimizing errors can be achieved by making the mouse less sensitive or by increasing the interaction area on the screen (zoom in-zooming out). For example - artists using the mouse as a brush will be very annoyed if errors creep in when painting an image mouse pixel by pixel.</p>
 
 <h2>What I Used</h2>
 <ol>

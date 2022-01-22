@@ -10,6 +10,12 @@
 </ol>
 
 <h2>Goals</h2>
+<ol>
+  <li><b>Language:</b> Visual Basic</li>
+  <li><b>Framework:</b> GUNA UI</li>
+  <li><b>CI/CD:</b> Github</li>
+  <li><b>Pictures:</b> Flaticon, Pinterest, Dribble</li>
+</ol>
 
 # ScreenShoots
 ![Home](https://user-images.githubusercontent.com/84588706/150046282-ea8d07c7-8bca-45b7-9ef6-68e80df843bc.jpg)

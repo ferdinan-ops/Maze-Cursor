@@ -12,7 +12,7 @@
 <h2>Goals</h2>
 <ol>
   <li>You will be able to measure your mouse control ability in terms of time and task complexity.</li>
-  <li></li>
+  <li>You will be able to know the cursor movement skills in limited situations.</li>
   <li></li>
   <li></li>
 </ol>

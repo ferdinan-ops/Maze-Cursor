@@ -1,5 +1,6 @@
 # Maze Cursor
 <h2>Descriptions</h2>
+<p>Maze cursor is a game to test sensitivy of mouse. </p>
 
 <h2>What I Used</h2>
 <ol>

@@ -18,10 +18,14 @@
 </ol>
 
 <h1>ScreenShoots</h1>
-<ol>
+<ul>
   <li>
     <h3>Home</h3>
     <img src="" alt="Home">
+  </li>
+  <li>
+    <h3>Games</h3>
+    <img src="" alt="Games">
   </li>
   <li>
     <h3>Guide</h3>
@@ -33,11 +37,7 @@
     <h3></h3>
     <img src="" alt="">
   </li>
-  <li>
-    <h3></h3>
-    <img src="" alt="">
-  </li>
-</ol>
+</ul>
 
 ![Home](https://user-images.githubusercontent.com/84588706/150046282-ea8d07c7-8bca-45b7-9ef6-68e80df843bc.jpg)
 

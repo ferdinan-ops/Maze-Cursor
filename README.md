@@ -24,8 +24,10 @@
     <img src="" alt="Home">
   </li>
   <li>
-    <h3></h3>
-    <img src="" alt="">
+    <h3>Guide</h3>
+    <img src="" alt="Guide 1">
+    <img src="" alt="Guide 2">
+    <img src="" alt="Guide 3">
   </li>
   <li>
     <h3></h3>

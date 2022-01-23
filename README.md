@@ -29,9 +29,11 @@
   </li>
   <li>
     <h3>Guide</h3>
-    <img src="" alt="Guide 1">
-    <img src="" alt="Guide 2">
-    <img src="" alt="Guide 3">
+    <img src="https://user-images.githubusercontent.com/84588706/150046337-417526ff-e452-4a4f-ad9b-95a9907f8f49.jpg" alt="Guide 1">
+    <img src="https://user-images.githubusercontent.com/84588706/150046365-0f346fed-e726-4b26-830c-633ee77c1c21.jpg" alt="Guide 2">
+    <img src="https://user-images.githubusercontent.com/84588706/150046411-89b749d4-8ba5-4989-9310-bb696a6738cc.jpg" alt="Guide 3">
+    <img src="https://user-images.githubusercontent.com/84588706/150046451-d53e3c2d-4f63-472b-894e-c6c6e0b75db3.jpg" alt="Guide 4">
+    <img src="https://user-images.githubusercontent.com/84588706/150272684-6e3996bc-fe1c-4164-8216-857bb87536da.jpg" alt="Guide 5">
   </li>
   <li>
     <h3>Results</h3>
@@ -45,15 +47,15 @@
 
 ![Games]()
 
-![Petunjuk1](https://user-images.githubusercontent.com/84588706/150046337-417526ff-e452-4a4f-ad9b-95a9907f8f49.jpg)
+![Petunjuk1]()
 
-![Petunjuk2](https://user-images.githubusercontent.com/84588706/150046365-0f346fed-e726-4b26-830c-633ee77c1c21.jpg)
+![Petunjuk2]()
 
-![Petunjuk3](https://user-images.githubusercontent.com/84588706/150046411-89b749d4-8ba5-4989-9310-bb696a6738cc.jpg)
+![Petunjuk3]()
 
-![Petunjuk4](https://user-images.githubusercontent.com/84588706/150046451-d53e3c2d-4f63-472b-894e-c6c6e0b75db3.jpg)
+![Petunjuk4]()
 
-![Petunjuk5](https://user-images.githubusercontent.com/84588706/150272684-6e3996bc-fe1c-4164-8216-857bb87536da.jpg)
+![Petunjuk5]()
 
 ![Hasil1](https://user-images.githubusercontent.com/84588706/150272720-228bf25a-7b77-468f-a6dd-af0a954657b1.jpg)
 

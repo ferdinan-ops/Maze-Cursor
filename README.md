@@ -17,7 +17,26 @@
   <li>You will understand the importance of coordinating visual and motor selection simultaneously to hit targets using the mouse.</li>
 </ol>
 
-# ScreenShoots
+<h1>ScreenShoots</h1>
+<ol>
+  <li>
+    <h3>Home</h3>
+    <img src="" alt="Home">
+  </li>
+  <li>
+    <h3></h3>
+    <img src="" alt="">
+  </li>
+  <li>
+    <h3></h3>
+    <img src="" alt="">
+  </li>
+  <li>
+    <h3></h3>
+    <img src="" alt="">
+  </li>
+</ol>
+
 ![Home](https://user-images.githubusercontent.com/84588706/150046282-ea8d07c7-8bca-45b7-9ef6-68e80df843bc.jpg)
 
 ![Games](https://user-images.githubusercontent.com/84588706/150046309-7728e118-884f-41d8-88f4-0afeab3583ae.jpg)

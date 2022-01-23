@@ -25,7 +25,7 @@
   </li>
   <li>
     <h3>Games</h3>
-    <img src="" alt="Games">
+    <img src="https://user-images.githubusercontent.com/84588706/150046309-7728e118-884f-41d8-88f4-0afeab3583ae.jpg" alt="Games">
   </li>
   <li>
     <h3>Guide</h3>
@@ -43,7 +43,7 @@
 
 ![Home]()
 
-![Games](https://user-images.githubusercontent.com/84588706/150046309-7728e118-884f-41d8-88f4-0afeab3583ae.jpg)
+![Games]()
 
 ![Petunjuk1](https://user-images.githubusercontent.com/84588706/150046337-417526ff-e452-4a4f-ad9b-95a9907f8f49.jpg)
 

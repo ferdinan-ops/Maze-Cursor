@@ -34,8 +34,10 @@
     <img src="" alt="Guide 3">
   </li>
   <li>
-    <h3></h3>
-    <img src="" alt="">
+    <h3>Results</h3>
+    <img src="" alt="Results 1">
+    <img src="" alt="Results 2">
+    <img src="" alt="Results 3">
   </li>
 </ul>
 

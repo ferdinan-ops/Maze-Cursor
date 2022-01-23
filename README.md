@@ -21,7 +21,7 @@
 <ul>
   <li>
     <h3>Home</h3>
-    <img src="" alt="Home">
+    <img src="https://user-images.githubusercontent.com/84588706/150046282-ea8d07c7-8bca-45b7-9ef6-68e80df843bc.jpg" alt="Home">
   </li>
   <li>
     <h3>Games</h3>
@@ -41,7 +41,7 @@
   </li>
 </ul>
 
-![Home](https://user-images.githubusercontent.com/84588706/150046282-ea8d07c7-8bca-45b7-9ef6-68e80df843bc.jpg)
+![Home]()
 
 ![Games](https://user-images.githubusercontent.com/84588706/150046309-7728e118-884f-41d8-88f4-0afeab3583ae.jpg)
 
